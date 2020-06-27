@@ -5,7 +5,8 @@ def welcome():
   print("New Screen")
 
 def main():
-  pass
+  click()
+  welcome()
 
 if __name__ == '__main__':
   main()
