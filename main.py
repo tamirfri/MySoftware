@@ -1,3 +1,6 @@
+def welcome():
+  print("New Screen")
+
 def main():
   pass
 
